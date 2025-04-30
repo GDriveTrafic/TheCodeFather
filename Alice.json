@@ -3,7 +3,7 @@
     {
       "network": "Admob",
        
-      "Ai": true,
+      "Ai": false,
       "BeforeMain": false,
       "inReview": false,
       "likeUs": false,
