@@ -1,0 +1,73 @@
+{
+  "Data": [
+    {
+      "network": "Admob",
+       
+      "Ai": true,
+      "BeforeMain": false,
+      "inReview": false,
+      "likeUs": false,
+      "suspended": false,
+      "webMode": true,
+      "webLink": "https://gemini.google.com/app/",
+      "newOne": "https://play.google.com/store/apps/details?id=codes.alicecommands.rupersonalvoiceassistant&gl=ru&hl=ru",
+      "signal": "",
+      "profile_activity": true,
+      "phone_activity":true,
+      "age_activity": true,
+      "devices_activity": true,
+      
+      "API_1": "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",
+      "API_2": "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",
+      "API_3": "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",
+
+      "interAds": "xYandex",
+      "bannerAds": "xYandex",
+      "nativeAds": "xYandex",
+      "interClick": 5,
+      "webmode_inter_interval": 5,
+      
+      "key1": "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",
+      "key2": "",
+      "key3": "",
+     
+      "A_inter" : [""],
+      "A_banner": [""],
+      "A_native": [""],
+      
+      "F_inter" : ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
+      "F_banner": ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
+      "F_native": ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
+      
+      "applovin_banner_id": ["34f650bee0fa4673"],
+      "applovin_interstitial_id": ["00b715e85fd15896"],
+      "applovin_mrec_id": [""],
+      "applovin_native_id": "021d9a1aae4da5ee",
+      
+      "Mo_Native": "1",
+      "mopub_banner_id": [""],
+      "mopub_interstitial_id": [""],
+      "mopub_native_id": [""],
+      "mopub_rectangle_banner_id": "",
+      "amazon_key": "",
+      "ironsrc_app_key": "",
+      
+    
+      
+      "yandex_banner_id": "demo-banner-yandex",
+      "yandex_interstitial_id": "demo-interstitial-yandex",
+      "yandex_big_banner_id": "",
+      "yandex_native_id": "demo-native-app-yandex",
+      
+      "pangle_app_id": "8025677",
+      "pangle_banner_id": "980099802",
+      "pangle_interstitial_id": "9800881880",
+      "pangle_native_id": "980771532",
+      
+      "tapdaq_app_id": "",
+      "tapdaq_client_key": ""
+      
+        
+    }
+  ]
+}
