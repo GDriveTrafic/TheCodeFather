@@ -4,7 +4,7 @@
       "network": "Yandex",
        
       "Ai": false,
-      "BeforeMain": false,
+      "BeforeMain": true,
       "inReview": false,
       "likeUs": false,
       "suspended": false,
