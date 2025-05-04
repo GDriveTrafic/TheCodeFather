@@ -4,11 +4,11 @@
       "network": "Yandex",
        
       "Ai": false,
-      "BeforeMain": true,
+      "BeforeMain": false,
       "inReview": false,
       "likeUs": false,
       "suspended": false,
-      "webMode": false,
+      "webMode": true,
       "webLink": "https://gemini.google.com/app/",
       "newOne": "https://play.google.com/store/apps/details?id=codes.alicecommands.rupersonalvoiceassistant&gl=ru&hl=ru",
       "signal": "",
